@@ -1,11 +1,11 @@
 initialize two number a and b
-is a greater than b then print a
+is a leser than b then print a
 else print b
 
 like
 
 int a 10;
 int b 20;
-if (a>b);
+if (a<b);
 print a 
 else print b
