@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Kunal0070
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+initialize two number a and b
+is a greater than b then print a
+else print b
 
-<!---
-Kunal0070/Kunal0070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+like
+
+int a 10;
+int b 20;
+if (a>b);
+print a 
+else print b
