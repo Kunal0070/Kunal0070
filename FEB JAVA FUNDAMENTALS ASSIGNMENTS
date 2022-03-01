@@ -1,11 +1,12 @@
-initialize two number a and b
-is a leser than b then print a
-else print b
+initialize two num a and b
+sum of two num divide bt two 
+print average
+stop
 
 like
 
-int a 10;
-int b 20;
-if (a<b);
-print a 
-else print b
+int a = 10;
+int b = 20;
+(a+b)/2
+print average 
+stop
